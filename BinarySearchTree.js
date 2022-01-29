@@ -1,5 +1,8 @@
 // Binary Search Tree
+<<<<<<< HEAD
 // Try another change
+=======
+>>>>>>> 8efdf46717448d7df65d73040685568b1c726ebe
 
 class Node {
   constructor(value) {
